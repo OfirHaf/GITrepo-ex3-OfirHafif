@@ -1,7 +1,7 @@
-public class Ofir{
+public class Ofir1{
 	public static void main(String[] args) {
-		for (int i=1;i=5; i++) {
-			System.out.println(Ofir Hafif);
+		for (int i=1;i<=5; i++) {
+			System.out.println("Ofir Hafif");
 		}
 	}
 }
